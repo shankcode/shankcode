@@ -10,7 +10,7 @@
 Hi, I'm Shashank Yadav, a passionate web developer.
 
 <!-- - 🔭 I’m currently working on my project [App Name](https://github.com/shankcode/<repo name>) -->
-- 🌱 I’m currently learning *Typescript*.
+- 🌱 I’m currently learning *Typescript* *GraphQL*
 - 💬 Ask me about anything ***[here](https://github.com/shankcode/shankcode/issues)***
 
 **Languages and Tools:**  
