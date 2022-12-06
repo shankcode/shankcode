@@ -7,11 +7,13 @@
 <br />
 <br />
 
-Hi, I'm Shashank Yadav, a passionate web developer.
+I am Shashank Yadav 🙋🏻‍♂️, a Pet Lover, Frontend & Backend Architect, Web Developer Evangelist & Cloud Computing Consultant.
+
+I am a React JS Specialist, and FullStack JavaScript Developer.
 
 <!-- - 🔭 I’m currently working on my project [App Name](https://github.com/shankcode/<repo name>) -->
-- 🌱 I’m currently learning *Typescript*, *GraphQL*.
-- 💬 Ask me about anything ***[here](https://github.com/shankcode/shankcode/issues)***
+<!-- - 🌱 I’m currently learning *Typescript*, *GraphQL*. -->
+<!-- - 💬 Ask me about anything ***[here](https://github.com/shankcode/shankcode/issues)*** -->
 
 **Languages and Tools:**  
 
