@@ -26,6 +26,9 @@ Hi, I'm Shashank Yadav, a passionate web developer.
 *NOTE: Top languages only indicate the languages i have used mostly on github*
 
 
+![Shashank GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankcode) 
+<!-- | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/praveenscience) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/praveenscience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> -->
+
 <a href="">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shankcode&show_icons=true&count_private=true&theme=onedark&line_height=27" alt="Anurag's github stats" />
 </a>
@@ -33,6 +36,6 @@ Hi, I'm Shashank Yadav, a passionate web developer.
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shankcode&theme=onedark" />
 </a>
 
-<!-- <a href="">
+<!--  <a href="">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shankcode&repo=phonebook&theme=onedark" />
-</a>     -->
+</a> -->
